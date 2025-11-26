@@ -2,7 +2,9 @@
 
 Hey there! This guide is here to help you wrap your head around Terraform and why we use Infrastructure as Code (IaC). If you've ever felt the pain of manually clicking through the AWS console to set up servers, you're going to love this.
 
-### Here is the main Diagram I create - 
+### Visualizing the Flow
+
+Here's a quick diagram to show how the pieces fit together:
 
 <img width="1041" height="518" alt="image" src="https://github.com/user-attachments/assets/07232675-9f33-4f8c-91a3-ad53923bd796" />
 
@@ -45,9 +47,6 @@ The workflow is actually pretty simple. We call it **Write -> Plan -> Apply**.
 2.  **Plan:** You run `terraform plan`. This is like a "dry run." Terraform looks at your code, looks at what's actually running, and tells you *exactly* what it's going to do. It's a great safety net.
 3.  **Apply:** If the plan looks good, you run `terraform apply`. Terraform goes out and builds everything.
 
-### Visualizing the Flow
-
-Here's a quick diagram to show how the pieces fit together:
 
 ### 6. Here is the resource from where I learned
 
