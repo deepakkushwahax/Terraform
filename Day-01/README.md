@@ -76,3 +76,5 @@ The workflow is actually pretty simple. We call it **Write -> Plan -> Apply**.
 ## Author
 
 - [Deepak Kushwaha](#)
+
+Deepak Kushwaha
