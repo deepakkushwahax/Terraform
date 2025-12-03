@@ -78,3 +78,4 @@ The workflow is actually pretty simple. We call it **Write -> Plan -> Apply**.
 - [Deepak Kushwaha](#)
 
 Deepak Kushwaha
+deepakkushwaha7523@gmail.com
