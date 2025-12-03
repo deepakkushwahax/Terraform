@@ -129,8 +129,3 @@ Terraform providers are essential components that let Terraform interact with ex
 |--------------------|--------------------------------------------|
 | Deepak Kushwaha    | [deepakkushwaha7523@gmail.com](mailto:deepakkushwaha7523@gmail.com) |
 
-
-
-Abhishek
-Sneha
-Deepak
